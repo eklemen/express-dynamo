@@ -1,0 +1,16 @@
+[
+  { "id": "3b9e34c0-bb4f-4c8c-8e14-37d6469b5cd5",
+    "type" : "Automatic",
+    "name" : "Toyota Yaris",
+    "manufacturer" : "Toyota",
+    "fuel_type" : "Petrol",
+    "description" : "A smooth ride"
+  },
+  { "id": "a421f050-3da9-498a-9f6b-402184692c05",
+    "type" : "Manual",
+    "name" : "Volkswagen Golf",
+    "manufacturer" : "Volkswagen",
+    "fuel_type" : "Petrol",
+    "description" : "Good Value"
+  }
+]
